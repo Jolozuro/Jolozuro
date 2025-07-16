@@ -105,3 +105,10 @@
 <p align="center">
   <img src="https://media.giphy.com/media/l2JHRhAtnJSDNJ2py/giphy.gif" width="200" alt="Code loop GIF" />
 </p>
+
+<p align="center"><i>Tugas Persentasi Pemrograman Web 👇</i></p>
+<p align="center">
+  <a href="https://youtu.be/uWs0K9IaSGY?si=dQxqV1N3fOb5FGFG" target="_blank">
+    <img src="https://img.youtube.com/vi/uWs0K9IaSGY/0.jpg" alt="Tugas Persentasi Pemrograman Web" width="400" />
+  </a>
+</p>
